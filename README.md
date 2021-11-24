@@ -1,2 +1,3 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+# C31
+
+Bird now leaves a trajectory trail behind
